@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: policy-map
+data:
+  "policy-1-key": 'policy-1-value'
+  "policy-2-key": 'policy-2-value'
