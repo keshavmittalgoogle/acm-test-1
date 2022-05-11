@@ -5,3 +5,4 @@ metadata:
 data:
   "policy-1-key": 'policy-1-value'
   "policy-2-key": 'policy-2-value'
+  "new-key": 'new-key-value'
