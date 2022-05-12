@@ -1,7 +1,0 @@
-apiVersion: vmm.core.a4vm.io/v1alpha1
-kind: CustomPolicySyncTest
-metadata:
-  name: custompolicysynctest-sample-2
-spec:
-  # Add fields here
-  data: 'policy3'
